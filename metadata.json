@@ -1,0 +1,6 @@
+{
+  "name": "BrandGuard - Digital Risk Protection",
+  "description": "Digital Risk Protection platform that detects brand impersonation on social media and app stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
